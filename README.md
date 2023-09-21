@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **object oriented programming**
 
-- 📫 How to reach me **jinksy@gmail.com**
-
 - ⚡ Fun fact **I've done international dance performances**
 
 <h3 align="left">Connect with me:</h3>
