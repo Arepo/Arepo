@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasha Cooper</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on [Longtermism risk calculator](https://github.com/Arepo/lrisk_calculator)
+- 🔭 I’m currently working on [Longtermist risk calculator](https://github.com/Arepo/lrisk_calculator)
 
 - 🌱 I’m currently learning **more about statistics, philosophy of topic clustering**
 
