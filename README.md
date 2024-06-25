@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the [Longtermist risk calculator](https://github.com/Arepo/lrisk_calculator)
 
-- 🌱 I’m currently learning **more about statistics, philosophy of topic clustering**
+- 🌱 I’m currently learning **more about statistics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arepo](https://github.com/Arepo)
 
