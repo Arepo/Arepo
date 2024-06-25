@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arepo](https://github.com/Arepo)
 
-- 📝 I regularly write articles on [http://valence-utilitarianism.com/](http://valence-utilitarianism.com/)
+- 📝 I sometimes write articles on [http://valence-utilitarianism.com/](https://valence-utilitarianism.fly.dev/)
 
 - 💬 Ask me about **object oriented programming**
 
